@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1755993059311,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [
+      {
+        "userId": 1,
+        "type": "love"
+      }
+    ],
+    "comments": [],
+    "privacy": "public"
+  },
+  {
+    "id": 1755992832568,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [
+      {
+        "userId": 1,
+        "type": "love"
+      }
+    ],
+    "comments": [],
+    "privacy": "public"
+  },
+  {
+    "id": 1755991917926,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [
+      {
+        "userId": 1,
+        "type": "haha"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1755991925615,
+        "userId": 1,
+        "author": "Alice",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "text": "js"
+      },
+      {
+        "id": 1755992442944,
+        "userId": 1,
+        "author": "Alice",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "text": "gj"
+      }
+    ],
+    "privacy": "public"
+  },
+  {
+    "id": 1755991672893,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [
+      {
+        "userId": 1,
+        "type": "wow"
+      }
+    ],
+    "comments": [],
+    "privacy": "public"
+  },
+  {
+    "id": 1755989724837,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [],
+    "comments": [
+      {
+        "id": 1755991722492,
+        "userId": 1,
+        "author": "Alice",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "text": "ru"
+      }
+    ],
+    "privacy": "public"
+  },
+  {
+    "id": 1755989279772,
+    "userId": 1,
+    "author": "Alice",
+    "text": "hi",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": 1755988237736,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [],
+    "comments": [],
+    "privacy": "public"
+  },
+  {
+    "id": 1755988012645,
+    "userId": 1,
+    "author": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "text": "hi",
+    "media": null,
+    "likes": [],
+    "comments": [],
+    "privacy": "public"
+  }
+]

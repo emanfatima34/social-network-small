@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "bio": "Hello, I am Alice",
+    "friends": [],
+    "friendRequests": []
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "bio": "Hey, Bob here!",
+    "friends": [],
+    "friendRequests": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "bio": "Charlie’s profile",
+    "friends": [],
+    "friendRequests": [
+      2
+    ]
+  }
+]
